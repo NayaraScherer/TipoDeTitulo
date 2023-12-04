@@ -1,2 +1,2 @@
 # TipoDeTitulo
-Projeto feito em Visualg, apresentando inserção de Tipos de Títulos e Minutas.
+Projeto feito em Visualg e Java, apresentando inserção de Tipos de Títulos e Minutas.
